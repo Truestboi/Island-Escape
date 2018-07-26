@@ -1,6 +1,7 @@
 Welcome to Island Escape!
 My first game!
-I didn't make this alone, but the code will be very useful for future projects.
+This game was made by myself, Amberly, and Amari as our final project in our Girls Who Code 7 week program!
+It might not be the best game in the world, but the code will be very useful for future projects.
 Just have to note to myself not to ever use Cocos2d for anything ever again...
 (It just doesn't have enough detailed information about how to use it and other game engines are loads easier)
 
